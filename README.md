@@ -13,6 +13,7 @@
 <p align="left">
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/spring.svg" width="70" height="70">
   <img src="https://ih1.redbubble.net/image.2488655049.9084/st,small,507x507-pad,600x600,f8f8f8.jpg" width="70" height="70">
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="70" height="70">  
 </p>
 
 <!--
